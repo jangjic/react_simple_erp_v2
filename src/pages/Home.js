@@ -4,7 +4,7 @@ import { Container } from 'semantic-ui-react';
 const Home = () => {
     return (
         <Container>
-            홈
+            홈!!
         </Container>
     );
 };
